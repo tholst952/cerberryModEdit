@@ -22870,6 +22870,18 @@
 															<attribute id="CustomSequenceId" type="guid" value="a72ac7da-95ca-4861-bdae-b0c5d3350773" />
 															<attribute id="stub" type="bool" value="True" />
 														</node>
+														<node id="TagText">
+															<attribute id="TagText" type="TranslatedString" handle="h9bea481eg8776g43bdgaf16g32ce2a08a22c" version="1" />
+															<attribute id="LineId" type="guid" value="cdb24bf9-9b6f-44b5-8874-bbc886576cba" />
+															<attribute id="CustomSequenceId" type="guid" value="cdb24bf9-9b6f-44b5-8874-bbc886576cba" />
+															<attribute id="stub" type="bool" value="True" />
+														</node>
+														<node id="TagText">
+															<attribute id="TagText" type="TranslatedString" handle="h53a11dbbge5dbg48c2g885ega1992d10fe21" version="1" />
+															<attribute id="LineId" type="guid" value="826328c6-e077-4bcc-8051-3592dd767004" />
+															<attribute id="CustomSequenceId" type="guid" value="826328c6-e077-4bcc-8051-3592dd767004" />
+															<attribute id="stub" type="bool" value="True" />
+														</node>
 													</children>
 												</node>
 												<node id="RuleGroup">
